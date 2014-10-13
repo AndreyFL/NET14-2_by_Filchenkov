@@ -1,6 +1,0 @@
-C:\Users\Andrey\Documents\Visual Studio 2012\Projects\NET14-2\20141011_Lesson_005\MethodsProject\MethodsProject\bin\Debug\MethodsProject.exe.config
-C:\Users\Andrey\Documents\Visual Studio 2012\Projects\NET14-2\20141011_Lesson_005\MethodsProject\MethodsProject\bin\Debug\MethodsProject.exe
-C:\Users\Andrey\Documents\Visual Studio 2012\Projects\NET14-2\20141011_Lesson_005\MethodsProject\MethodsProject\bin\Debug\MethodsProject.pdb
-C:\Users\Andrey\Documents\Visual Studio 2012\Projects\NET14-2\20141011_Lesson_005\MethodsProject\MethodsProject\obj\Debug\MethodsProject.csprojResolveAssemblyReference.cache
-C:\Users\Andrey\Documents\Visual Studio 2012\Projects\NET14-2\20141011_Lesson_005\MethodsProject\MethodsProject\obj\Debug\MethodsProject.exe
-C:\Users\Andrey\Documents\Visual Studio 2012\Projects\NET14-2\20141011_Lesson_005\MethodsProject\MethodsProject\obj\Debug\MethodsProject.pdb
