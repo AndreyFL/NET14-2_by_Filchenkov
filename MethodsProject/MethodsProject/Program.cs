@@ -72,7 +72,7 @@ namespace MethodsProject
             inString.CopyTo(0, firstChar, 0, 1);
             inString.CopyTo(inString.Length - 1, lastChar, 0, 1);
 
-            // Уменьшаю длинну строки путем обрезания первого и последнего символа.
+            // Уменьшаю длинну строки путем удаления первого и последнего символа.
             //inString = inString.Substring(1, inString.Length - 2);
             inString = inString.Remove(inString.Length - 1, 1).Remove(0, 1);//как вариант верхней строки.
 
