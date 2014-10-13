@@ -73,8 +73,8 @@ namespace MethodsProject
             inString.CopyTo(inString.Length - 1, lastChar, 0, 1);
 
             // Уменьшаю длинну строки путем обрезания первого и последнего символа.
-            inString = inString.Substring(1, inString.Length - 2);
-            //inString = inString.Remove(inString.Length - 1, 1).Remove(0, 1);//как вариант верхней строки.
+            //inString = inString.Substring(1, inString.Length - 2);
+            inString = inString.Remove(inString.Length - 1, 1).Remove(0, 1);//как вариант верхней строки.
 
             // Сравниваю полученные первый и последний символы на равенство, 
             // в симметричной строке они должны быть равны.
